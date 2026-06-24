@@ -15,6 +15,7 @@
   <img align="center" alt="Joao-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Joao-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Joao-Csharp" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Joao-Ts" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original-wordmark.svg">
 </div>
   
 ## Social Media
